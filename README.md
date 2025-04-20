@@ -5,11 +5,6 @@
 </h1>
 <h1 align="center">🔎 - Cybersecurity 
 
-<p align="center">
-  <strong>Estudante focado em Red Team e Pentest</strong><br>
-  Aprendendo todos os dias, um exploit por vez 🧠💻
-</p>
-
 ---
 
 ### 🛡️ Sobre mim
