@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/-TryHackMe-%23FF0000?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="https://github.com/coquinhared3">
-    <img src="https://img.shields.io/github/followers/coquinhared3?label=Follow&style=social" alt="GitHub">
   </a>
 </p>
 
