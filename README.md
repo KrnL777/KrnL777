@@ -13,14 +13,7 @@
 - 👨‍💻 Atualmente estudando pela TryHackMe
 - 🏆 Finalizei o path **Jr Penetration Tester**
 - 🥈 Classificado na **Silver League** da TryHackMe
-
----
-
-### 📌 Certificados & Cursos
-- ✅ [Jr Penetration Tester - TryHackMe](https://tryhackme.com)
-- ✅ Cursos gratuitos com certificado: Cisco, IBM, Google (em andamento)
-- 🎯 Estudando para: **CompTIA Security+**
-
+  
 ---
 
 ### 🚀 Projetos
