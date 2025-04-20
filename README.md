@@ -16,7 +16,7 @@
 - 🎓 Último ano do colégio | Autodidata em Cibersegurança
 - ⚔️ Foco: Red Team | Pentest | Game Hacking
 - 👨‍💻 Atualmente estudando pela TryHackMe
-- 🏆 Finalizei o path **Jr Penetration Tester** com +136 questões resolvidas
+- 🏆 Finalizei o path **Jr Penetration Tester**
 - 🥈 Classificado na **Silver League** da TryHackMe
 
 ---
