@@ -6,7 +6,6 @@
 <h1 align="center"> 𓆩✧𓆪 Cybersecurity 𓆩✧𓆪
 
 ### 🛡️ Sobre mim
-- 🎓 Último ano do colégio | Autodidata em Cibersegurança 
 - ⚔️ Foco: Red Team | Pentest |
 - 👨‍💻 Atualmente estudando pela TryHackMe
 - 🏆 Finalizei o path **Jr Penetration Tester** 
