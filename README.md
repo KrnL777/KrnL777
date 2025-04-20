@@ -3,7 +3,7 @@
     font-size: 40px;">
     Hey there! 👋 I'm <a href="https://tryhackme.com/p/coquinhared3/">Kaue</a>. 
 </h1>
-<h1 align="center">🦂 Escorpion - Cybersecurity & Game Hacking</h1>
+<h1 align="center">🔎 - Cybersecurity 
 
 <p align="center">
   <strong>Estudante focado em Red Team e Pentest</strong><br>
@@ -32,16 +32,13 @@
 | Repositório | Descrição |
 |-------------|-----------|
 | `tryhackme-notes` | Anotações das salas e labs que fiz na TryHackMe |
-| `game-hacking` | Testes com Cheat Engine, leitura de memória, scripts |
 | `red-team-labs` | Scripts e experimentos de evasão, payloads e ataque |
 | `certificados` | Todos os certificados com descrição do conteúdo |
 
 ---
 
 ### 📫 Contato
-- GitHub: [teu_usuario](https://github.com/teu_usuario)
-- Discord: `teunick#0000` (opcional)
-- LinkedIn: (se tiver)
+- GitHub: [teu_usuario](https://github.com/KrnL777)
 
 > “Hackear não é destruir, é entender.”
 
