@@ -3,7 +3,7 @@
     font-size: 40px;">
     Hey there! 👋 I'm <a href="https://tryhackme.com/p/coquinhared3/">Kaue</a>. 
 </h1>
-<h1 align="center"> -  🔎  -
+<h1 align="center"> 🔎
 ---
 
 ### 🛡️ Sobre mim
