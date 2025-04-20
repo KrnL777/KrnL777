@@ -9,7 +9,7 @@
 
 ### 🛡️ Sobre mim
 - 🎓 Último ano do colégio | Autodidata em Cibersegurança
-- ⚔️ Foco: Red Team | Pentest | Game Hacking
+- ⚔️ Foco: Red Team | Pentest | Cybersecurity 
 - 👨‍💻 Atualmente estudando pela TryHackMe
 - 🏆 Finalizei o path **Jr Penetration Tester**
 - 🥈 Classificado na **Silver League** da TryHackMe
