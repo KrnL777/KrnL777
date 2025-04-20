@@ -7,20 +7,21 @@
 </h1>
 
 <p align="center">
-  <!-- Badges do TryHackMe e GitHub -->
+  <!-- Badge do TryHackMe -->
   <a href="https://tryhackme.com/p/coquinhared3/">
     <img src="https://img.shields.io/badge/-TryHackMe-%23FF0000?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://github.com/coquinhared3">
+  
+  <!-- Badge do GitHub (TROQUE "SEU_USERNAME" pelo seu user real!) -->
+  <a href="https://github.com/KrnL777">
+    <img src="https://img.shields.io/github/followers/SEU_USERNAME?label=Follow&style=social" alt="GitHub">
   </a>
 </p>
 
-<!-- Adicione uma linha separadora -->
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="50%">
 </p>
 
-<!-- Mensagem personalizada -->
 <p align="center">
   <strong>Hacking • Coding • Gaming</strong> 🍟
 </p>
