@@ -1,4 +1,4 @@
-## Hi there 👋 Kaue
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hey there! 👋 I'm <a href="https://tryhackme.com/p/coquinhared3/"><bold>Kaue</bold></a>.</h1>
 
 <!--
 **KrnL777/KrnL777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
