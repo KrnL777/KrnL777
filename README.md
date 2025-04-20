@@ -1,16 +1,23 @@
-<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hey there! 👋 I'm <a href="https://tryhackme.com/p/coquinhared3/"><bold>Kaue</bold></a>.</h1>
+# Cybersecurity Journey 🚀
 
-<!--
-**KrnL777/KrnL777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**by KrnL777**
 
-Here are some ideas to get you started:
+Estudo diário de cibersegurança e game hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Áreas de foco:
+- Red Team
+- TryHackMe progress
+- Game hacking com Cheat Engine e Lua
+
+## 📁 Organização
+- `Red Team/`: Ferramentas e testes
+- `CTFs/`: Resoluções de CTFs
+- `TryHackMe/`: Progresso e anotações
+- `Cheats/`: Scripts e estudos de game hack
+
+---
+
+🔗 Meus links:
+- GitHub: [KrnL777](https://github.com/KrnL777)
+- TryHackMe: [coquinhared3](https://tryhackme.com/p/coquinhared3)
+- 
