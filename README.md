@@ -3,7 +3,7 @@
     font-size: 40px;">
     Hey there! 👋 I'm <a href="https://tryhackme.com/p/coquinhared3/">Kaue</a>. 
 </h1>
-<h1 align="center"> 🔎
+<h1 align="center"> 
 ---
 
 ### 🛡️ Sobre mim
@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Contato
-- GitHub: [teu_usuario](https://github.com/KrnL777)
+- GitHub: [Kaue](https://github.com/KrnL777)
 
 > “Hackear não é destruir, é entender.”
 
