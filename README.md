@@ -24,12 +24,10 @@
 > Deixei tudo visual pra quem não conhece também conseguir entender fácil.
 
 ### 🔓 TryHackMe Progress
-<img src="LINK_DA_IMAGEM_DO_CAMINHO_TRYHACKME" width="100%"/>
+<img src="![image](https://github.com/user-attachments/assets/1d5a7e14-5e43-4781-a73d-94a202aada1e)
+" width="100%"/>
 
-📌 **Status atual**: Finalizando o caminho de Pentester Jr  
-🥇 **Ranking**: Top 14 Global  
-🔥 **Salas completadas**: 59  
-🛡️ **Badges**: 9  
+
 
 ---
 
