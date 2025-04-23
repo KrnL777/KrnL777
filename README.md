@@ -25,7 +25,7 @@
 
 ### 🔓 TryHackMe Skills
 ![image](https://github.com/user-attachments/assets/323ca8c4-f567-41d7-89d9-cac93ac2baba)
-![image]![image](https://github.com/user-attachments/assets/4acd3de7-db70-468d-8af7-c0556ef55319)
+![image](https://github.com/user-attachments/assets/4acd3de7-db70-468d-8af7-c0556ef55319)
 
 
 ### 🧩 GitHub Atividades
