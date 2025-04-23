@@ -1,4 +1,4 @@
-<h1 align="center">⚡ KrnL777 – Cybersecurity Journey</h1>
+<h1 align="center">⚡ Kaue – Cybersecurity Journey</h1>
 
 <p align="center">
   <em>“Hacking é uma arte de persistência.”</em><br>
