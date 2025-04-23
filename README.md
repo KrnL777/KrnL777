@@ -24,30 +24,16 @@
 > Deixei tudo visual pra quem não conhece também conseguir entender fácil.
 
 ### 🔓 TryHackMe Progress
-<img src="![image](https://github.com/user-attachments/assets/1d5a7e14-5e43-4781-a73d-94a202aada1e)" width="100%"/>
+<img src="![image](https://github.com/user-attachments/assets/1d5a7e14-5e43-4781-a73d-94a202aada1e)
+" width="100%"/>
 
 
 
----
 
 ### 🧩 GitHub Atividades
 
-<img src="LINK_DA_IMAGEM_DO_GITHUB_STATS" width="100%"/>
-
 🗓️ Contribuições visíveis  
 📁 Repositórios principais:
-- [`Cybersecurity-Certificados`](https://github.com/seuuser/Cybersecurity-Certificados) – Certificados organizados com prints 🖼️  
-- [`Cybersecurity-Journey-tryhackme`](https://github.com/seuuser/Cybersecurity-Journey-tryhackme) – Registro visual e completo da evolução  
-
----
-
-## 🧠 Mentalidade
-
-```txt
-Persistência acima de tudo.
-Visual acima de texto.
-Clareza acima de quantidade.
-
-
-
+- [`Cybersecurity-Certificados`](https://github.com/KrnL777/Cybersecurity-Certificados) – Certificados organizados com prints 🖼️  
+- [`Cybersecurity-Journey-tryhackme`](https://github.com/KrnL777/Cybersecurity-Journey-tryhackme) – Registro visual e completo da evolução  
 
