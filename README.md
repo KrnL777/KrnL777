@@ -24,7 +24,9 @@
 > Deixei tudo visual pra quem não conhece também conseguir entender fácil.
 
 ### 🔓 TryHackMe Progress
-![image](https://github.com/user-attachments/assets/f390afec-b293-41a4-8948-89f69007e966)
+![image]![image](https://github.com/user-attachments/assets/323ca8c4-f567-41d7-89d9-cac93ac2baba)
+![image]![image]![image](https://github.com/user-attachments/assets/4acd3de7-db70-468d-8af7-c0556ef55319)
+
 
 ### 🧩 GitHub Atividades
 
