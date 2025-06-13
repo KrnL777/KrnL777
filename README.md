@@ -24,8 +24,8 @@
 > Deixei tudo visual pra quem não conhece também conseguir entender fácil.
 
 ### 🔓 TryHackMe Skills
-![image](https://github.com/user-attachments/assets/323ca8c4-f567-41d7-89d9-cac93ac2baba)
-![image](https://github.com/user-attachments/assets/4acd3de7-db70-468d-8af7-c0556ef55319)
+![image](https://github.com/user-attachments/assets/48387248-5828-426b-bacd-308b9bdde6c2)
+![image](https://github.com/user-attachments/assets/c4404e05-dd67-4983-b365-3ea39abcc2dd)
 
 
 ### 🧩 GitHub Atividades
