@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>“Hacking é uma arte de persistência.”</em><br>
-  <strong>Em busca do profissionalismo. Ativo desde Dezembro de 2025. 🏆</strong>
+  <strong>Em busca do profissionalismo. Ativo desde Dezembro de 2024. 🏆</strong>
 </p>
 
 ---
